@@ -79,7 +79,7 @@ public class RecursiveMethods {
 	}
 
 	/**
-	 * This method uses recursion to compute the greatest common divisor
+	 * This method uses recursion to compute the greatest common diviso
 	 * for the two input values
 	 * 
 	 * @param p first operand
